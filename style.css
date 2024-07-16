@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+
+}
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
+label,h6{
+    margin-left: 20px;
+}
+input{
+    padding: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+button{
+    padding: 5px;
+    border-radius: 5px;
+}
+.container{
+    height:100%;
+    width: 100%;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+}
+.flex-items{
+    margin-top: 5px;
+    padding: 5px 5px 5px 0;
+}
